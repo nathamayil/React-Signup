@@ -1,4 +1,4 @@
-This project contains a simple login module done using React JS
+This project contains a simple login module done using React JS. I have attached screenshots of the pages too.
 
 App.js contains the code that lets you either Sign In if you are already a member, or to create an individual or business account.
 Main.js contains the the first signup page that asks for the user's email, password and name. One can also signup via Google(I haven't included the OAuth functionality in the code due to lack of time).
