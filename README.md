@@ -1,3 +1,18 @@
+This project contains a simple login module done using React JS
+
+App.js contains the code that lets you either Sign In if you are already a member, or to create an individual or business account.
+Main.js contains the the first signup page that asks for the user's email, password and name. One can also signup via Google(I haven't included the OAuth functionality in the code due to lack of time).
+Pg1.js asks the user for residential information.
+Pg2.js asks the user for BVN to complete the registration.
+
+During the signup, one can also navigate between the pages to check if their information has been entered correctly.
+
+Node version : 16.0.0
+React version: 17.0.2
+
+
+##Deployment Steps
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
